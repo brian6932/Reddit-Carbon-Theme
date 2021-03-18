@@ -1,3 +1,12 @@
+/* ==UserStyle==
+@name           CarbonForReddit
+@version        1.0
+@description    a fork of the reddit carbon theme originally from /u/ggitaliano
+@author         brian6932
+@namespace      https://github.com/brian6932
+@updateURL      https://github.com/brian6932/Reddit-Carbon-Theme/raw/main/CarbonForReddit.user.css
+@license        MIT
+==/UserStyle== */
 @-moz-document domain("reddit.com") {
     /* source https://b.thumbs.redditmedia.com/6OltOW6Xbz1dZNVKJfoWSbtycXGThq6mGDiNtEeOQTw.css */
 body {

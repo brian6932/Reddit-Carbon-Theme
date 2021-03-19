@@ -1,9 +1,10 @@
 # Reddit-Carbon-Theme
-![image](https://user-images.githubusercontent.com/18603393/111605234-8165f700-87ac-11eb-82a6-56e39033fa39.png)
-
 ### Disclaimer
 
-**_When using with RES make sure to turn off the native RES dark theme_**
+**_When using with [RES](https://redditenhancementsuite.com/), make sure to turn off the native [RES](https://redditenhancementsuite.com/) dark theme_**
+
+![image](https://user-images.githubusercontent.com/18603393/111605234-8165f700-87ac-11eb-82a6-56e39033fa39.png)
+
 
 ### Installation
 
@@ -17,6 +18,7 @@
 
 - [Click to  Install the usercss script](https://github.com/brian6932/Reddit-Carbon-Theme/raw/main/CarbonForReddit.user.css)
 
+### Credit
 _Originally from [/u/ggitaliano.](https://www.reddit.com/user/ggitaliano)_
 
-_This is a fork of [Xyl's fork](https://userstyles.org/styles/161093/carbon-for-reddit), better optimized to work in conjunction with RES_
+_This is a fork of [Xyl's fork](https://userstyles.org/styles/161093/carbon-for-reddit), better optimized to work in conjunction with [RES](https://redditenhancementsuite.com/)_

@@ -1,4 +1,5 @@
 # Reddit-Carbon-Theme
+_The subreddit style displayed [here](https://old.reddit.com/r/carbon/), but as a userstyle to use throughout the rest of Reddit_
 ### Disclaimer
 
 **_When using with [RES](https://redditenhancementsuite.com/), make sure to turn off the native [RES](https://redditenhancementsuite.com/) dark theme_**

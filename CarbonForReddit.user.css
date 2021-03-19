@@ -4860,11 +4860,11 @@ body.with-listing-chooser .listing-chooser .grippy:hover:after {
  border-top:1px solid #202020;
  color:#ddd
 }
-.res .RESDropdownList a:hover,.res .RESDropdownList li:hover {
+.res .RESDropdownList a:hover,.res .RESDropdownList li:hover, .res-commentNavToggle-choices {
  background-color:#323232;
  color:#fff
 }
-.res .RESDropdownList li a,.res .RESDropdownList li a:visited {
+.res .RESDropdownList li a,.res .RESDropdownList li a:visited, .res-commentNavToggle-type {
  color:#ddd
 }
 .res .RESDropdownList #DashboardLink {

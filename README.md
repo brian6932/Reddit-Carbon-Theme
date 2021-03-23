@@ -22,4 +22,4 @@ _The subreddit style displayed [here](https://old.reddit.com/r/carbon/), but as 
 ### Credit
 _Originally from [/u/ggitaliano.](https://www.reddit.com/user/ggitaliano)_
 
-_This is a fork of [Xyl's fork](https://userstyles.org/styles/161093/carbon-for-reddit), better optimized to work in conjunction with [RES](https://redditenhancementsuite.com/)_
+_This is a fork of [Xyl's fork](https://github.com/33kk/uso-archive/blob/flomaster/data/usercss/161093.user.css), better optimized to work in conjunction with [RES](https://redditenhancementsuite.com/)_

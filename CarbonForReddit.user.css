@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CarbonForReddit
-@version        1.0.0
+@version        1.0.1
 @description    a fork of the reddit carbon theme originally from /u/ggitaliano
 @author         brian6932
 @namespace      https://github.com/brian6932
@@ -1126,13 +1126,15 @@
     .content>.infobar.gold-accent .md {
      color:#cd9930
     }
-    .link {
-     padding:9px 10px;
-     margin:0;
-     background:#202020;
+    #siteTable > .link {
      border:1px solid #272727;
      border-bottom:1px solid #181818
     }
+	.link {
+	 padding:9px 10px;
+     margin:0;
+     background:#202020;
+	}
     .single-page .link {
      padding-bottom:15px
     }
@@ -5883,4 +5885,10 @@
     .comment .usertext.border {
         border: none;
     }
+	.pinnable-content.pinned, .res-show-link {
+		background: #202020 !important;
+	}
+	.res-show-link-tagline {
+		color: #808080;
+	}
 }

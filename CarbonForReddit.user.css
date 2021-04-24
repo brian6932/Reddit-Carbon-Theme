@@ -1126,7 +1126,7 @@
     .content>.infobar.gold-accent .md {
      color:#cd9930
     }
-    #siteTable > .link {
+    .sitetable.linklisting > .link {
      border:1px solid #272727;
      border-bottom:1px solid #181818
     }

@@ -5885,10 +5885,13 @@
     .comment .usertext.border {
         border: none;
     }
-	.pinnable-content.pinned, .res-show-link {
-		background: #202020 !important;
-	}
-	.res-show-link-tagline {
-		color: #808080;
-	}
+    .pinnable-content.pinned, .res-show-link, #keyHelp {
+        background: #202020 !important;
+    }
+    #keyHelp::-webkit-scrollbar-thumb {
+        background-color: #000
+    }
+    .res-show-link-tagline {
+        color: #808080;
+    }
 }

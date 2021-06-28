@@ -5894,4 +5894,7 @@
     .res-show-link-tagline {
         color: #808080;
     }
+    form.block_user-button {
+        background-color: #202020 !important;
+    }
 }

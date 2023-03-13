@@ -519,7 +519,7 @@
     }
 
     #search input[type=text] {
-        width: 358px;
+        width: 338px;
         padding: 7px 15px;
         background: #202020;
         border: 1px solid #272727;
@@ -7022,11 +7022,11 @@
     }
 
     .side {
-        width: 360px;
+        width: 340px
     }
 
     .titlebox {
-        width: 358px
+        width: 338px
     }
 
     .link {

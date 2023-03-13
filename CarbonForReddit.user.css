@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           CarbonForReddit
-@version        1.0.1
+@version        1.0.2
 @description    a fork of the reddit carbon theme originally from /u/ggitaliano
 @author         brian6932
 @namespace      https://github.com/brian6932
@@ -519,7 +519,7 @@
     }
 
     #search input[type=text] {
-        width: 298px;
+        width: 358px;
         padding: 7px 15px;
         background: #202020;
         border: 1px solid #272727;
@@ -5929,7 +5929,6 @@
 
     .res .RESDashboardToggle,
     .res .RESshortcutside {
-        width: 136px;
         background: #202020;
         border: none;
         display: inline-block;
@@ -5944,7 +5943,6 @@
     }
 
     .res .RESDashboardToggle {
-        width: 135px;
         border-left: 1px solid #181818
     }
 
@@ -7024,7 +7022,11 @@
     }
 
     .side {
-        width: 300px;
+        width: 360px;
+    }
+
+    .titlebox {
+        width: 358px
     }
 
     .link {

@@ -1677,16 +1677,15 @@
 	}
 
 	.link.self .thumbnail {
-		background-position: center -438px
+		background: 2px -435px
 	}
 
 	.link .thumbnail.default {
-		background-position: center -488px
+		background: 2px -488px
 	}
 
 	.link.over18 .thumbnail.nsfw {
-		max-height: 50px;
-		background-position: center -538px
+		background: 2px -535px
 	}
 
 	.link .thumbnail:before {

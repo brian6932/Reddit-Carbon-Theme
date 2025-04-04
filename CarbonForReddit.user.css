@@ -7422,4 +7422,7 @@
 		background-color: #202020 !important;
 	}
 
+	.admin_takedown {
+		background: none
+	}
 }
